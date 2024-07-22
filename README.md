@@ -49,3 +49,7 @@
 </div>
 
 ###
+
+###
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-l-ra)](https://github.com/anuraghazra/github-readme-stats)
+###
