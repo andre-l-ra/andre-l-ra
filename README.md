@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Olá 👋! Sou André ... e eu sou um desenvolvedor de software apaixonado pelo que eu faço</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://lh3.googleusercontent.com/a/ACg8ocKVezx3Y0XSrcd41uWQxwn70x1-lWh1ep6vjpnA1H9gtGShXBo=s288-c-no"  />
 
 ###
 
