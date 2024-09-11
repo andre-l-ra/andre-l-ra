@@ -54,3 +54,7 @@
 ![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-l-ra&show_icons=true&theme=radical)
 
 ###
+###
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-l-ra&layout=compact&theme=radical)
+
+###
