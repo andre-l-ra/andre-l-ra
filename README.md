@@ -52,4 +52,6 @@
 
 ###
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-l-ra&show_icons=true&theme=codeSTACKr)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-l-ra&show_icons=true&theme=radical)
+
 ###
