@@ -51,7 +51,7 @@
 ###
 
 ###
-![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-l-ra&show_icons=true&theme=radical)
+![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-l-ra&show_icons=true&theme=radical&token=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&cache_seconds=1800)
 
 ###
 ###
